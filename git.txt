@@ -1,1 +1,2 @@
-git init
+git cofig --global user.email ""
+Control C......To Break out of error
